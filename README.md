@@ -1,1 +1,1 @@
-# shinku.github.io
+# syncrate.github.io/pages
